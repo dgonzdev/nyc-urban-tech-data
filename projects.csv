@@ -1,4 +1,5 @@
 title,description,organization_identifier,project_site,source_code
+"ABCEats-Restaurants","ABCEats allows you to look up Health Department inspection results for restaurants in New York City.","nyc-health","https://a816-health.nyc.gov/ABCEatsRestaurants/#!/Search",""
 "Buildings Information System","You can search for general information on a property in the city including recorded complaints and violations, actions, applications, and inspections. You can also search for information about tradespeople licensed by the Department. The information provided here comes directly from the Department's Building Information System.","nyc-department-of-buildings","https://a810-bisweb.nyc.gov/bisweb/bsqpm01.jsp",""
 "NYC Legistar API","The Council shares and archives all of its legislative information, including proposed and passed legislation, hearings, and monthly Stated meetings.","new-york-city-council","https://council.nyc.gov/legislation/api/",""
 "NYC Open Data","Open Data is free public data published by New York City agencies and other partners.","nyc-office-of-technology-and-innovation","https://data.cityofnewyork.us/browse?sortBy=relevance&pageSize=20&page=1",""
