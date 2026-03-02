@@ -4,6 +4,7 @@ name,identifier,type,website
 "NYC Department of City Planning","nyc-planning","government","https://www.nyc.gov/content/planning/pages/"
 "NYC Department of Health and Mental Hygiene","nyc-health","government","https://www.nyc.gov/site/doh/index.page"
 "NYC Department of Parks and Recreation","nyc-parks","government","https://www.nycgovparks.org/"
+"NYC Department of Transportation","nyc-dot","government","https://www.nyc.gov/html/dot/html/home/home.shtml"
 "NYC Office of Technology and Innovation","nyc-office-of-technology-and-innovation","government","https://www.nyc.gov/content/oti/pages/"
 "Redistricter LLC","redistricter","company",""
 "The New York Public Library","new-york-public-library","government","https://www.nypl.org/"
