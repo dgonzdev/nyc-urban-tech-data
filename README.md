@@ -27,3 +27,8 @@ The repo will contain the following at some point:
 
 ## Contributing
 
+TLDR:
+- Fork the repository
+- Create a branch
+- Make your changes
+- Submit a pull request
